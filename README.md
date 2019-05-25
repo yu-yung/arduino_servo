@@ -1,5 +1,9 @@
 # arduino_servo
 
+![image](https://github.com/yu-yung/arduino_servo/blob/master/knob_bb.png)
+![image](https://github.com/yu-yung/arduino_servo/blob/master/knob_schem.png)
+
+
 #include <Servo.h>
 
 Servo motor_servo;  // 產生servo物件
